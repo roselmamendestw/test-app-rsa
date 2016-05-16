@@ -1,0 +1,14 @@
+{
+  "name": "test-app-rsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
